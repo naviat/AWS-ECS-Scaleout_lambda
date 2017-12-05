@@ -1,0 +1,6 @@
+Environment: Python2.7
+
+AWS Lambda Function
+
+Trigger by SNS 
+CloudWatch Alarm trigger SNS
